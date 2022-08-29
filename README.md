@@ -1,7 +1,5 @@
 # Project details: FIFA - MoneyBall
 
-<!-- ![Project Banner: FIFA](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/project+banners/fifa-project.jpg) -->
-
 ## The challenge
 
 Perform an end-to-end analysis putting into practice what you have learned so far. You will apply statistical or machine learning techniques and present your results to the class.
