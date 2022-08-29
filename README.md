@@ -2,7 +2,7 @@
 
 ## The challenge
 
-Perform an end-to-end analysis putting into practice what you have learned so far. You will apply statistical or machine learning techniques and present your results to the class.
+Perform an end-to-end analysis putting into practice what you have learned so far.
 
 ### Possible Outcomes
 
